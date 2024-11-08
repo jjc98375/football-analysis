@@ -1,6 +1,6 @@
 # Football Analysis
 
-This project aims to detect and track players, referees, and footballs in video footage using the YOLO object detection model. It includes team assignment based on t-shirt colors using Kmeans clustering, movement analysis with optical flow, and perspective transformation to measure player movements accurately. The project is suitable for both beginners and experienced machine learning engineers.
+This project aims to detect and track players, referees, and footballs in video footage using the YOLO object detection model. It includes team assignment based on t-shirt colors using Kmeans clustering, movement analysis with optical flow, and perspective transformation to measure player movements accurately.
 
 ## Table of Contents
 
